@@ -7,3 +7,4 @@ This project displays fault lines and waypoints on a map using JXMapViewer. You 
 
 ![image alt](https://github.com/RusselMunoz/Fault-Finder-PH-Interactive-Mapping-Tool/blob/main/preview_3.jpg?raw=true)
 
+Software project developed for my Data Structures and Algorithms finals at National University Dasmariñas.
